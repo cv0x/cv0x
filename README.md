@@ -25,4 +25,4 @@
 I  am powered by ☕️ 
 
 <a href="https://twitter.com/thecv0x"><img src="https://img.shields.io/twitter/follow/thecv0x?style=flat-square&color=555555&labelColor=black&logo=twitter&label=@thecv0x"></a> 
-<img src="https://img.shields.io/github/followers/patrikzudel?style=flat-square&color=555555&labelColor=black&logo=github&label=cv0x">
+<img src="https://img.shields.io/github/followers/cv0x?style=flat-square&color=555555&labelColor=black&logo=github&label=cv0x">
