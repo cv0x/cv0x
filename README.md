@@ -77,13 +77,15 @@
 
 ###
 
-🥇 Projects
- Wallpaper Engine projects
+<h3 align="left">🥇 Projects :</h3>
+###
+
+ <p align="left">Wallpaper Engine projects</p>
  
  <a href='https://steamcommunity.com/sharedfiles/filedetails/?id=2804470667'><img height='150px' src='https://github.com/cv0x/cvox-portfolio-web/blob/main/res/img/portfolio1.png?raw=true'></a>
  <a href='https://steamcommunity.com/sharedfiles/filedetails/?id=2986436976'><img height='150px' src='https://github.com/cv0x/cvox-portfolio-web/blob/main/res/img/portfolio6.png?raw=true'></a>
  
- 3D Modeling and Printing
+ <p align="left">3D Modeling and Printing</p>
  
  <a href='https://www.printables.com/cs/model/284814-heisenberg-bookmark'><img height='150px' src='https://github.com/cv0x/cvox-portfolio-web/blob/main/res/img/portfolio4.png?raw=true'></a>
  <a href='https://www.printables.com/cs/model/482589-bitcoin-cappuccino-stencil'><img height='150px' src='https://github.com/cv0x/cvox-portfolio-web/blob/main/res/img/portfolio5.png?raw=true'></a>
