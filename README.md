@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools that I use or am aware of</h3>
+<h3 align="left">🛠 Language and tools that I use or learning</h3>
 
 ###
 
