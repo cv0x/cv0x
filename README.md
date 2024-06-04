@@ -85,12 +85,12 @@
  
  <a href='https://steamcommunity.com/sharedfiles/filedetails/?id=2804470667'><img height='150px' src='https://steamuserimages-a.akamaihd.net/ugc/2515898066934520793/20576CD4B8091DFA37F39EEA1EBD444B934899DF/?'></a>
  <a href='https://steamcommunity.com/sharedfiles/filedetails/?id=3252688975'><img height='150px' src='https://steamuserimages-a.akamaihd.net/ugc/2491132166132224460/AE6720262AB850C1281CE29FD6FAD3D46CCCEA91/?'></a>
- <a href='https://steamcommunity.com/sharedfiles/filedetails/?id=2986436976'><img height='150px' src='https://github.com/cv0x/cvox-portfolio-web/blob/main/res/img/portfolio6.png?raw=true'></a>
+ <a href='https://steamcommunity.com/sharedfiles/filedetails/?id=2986436976'><img height='150px' src='https://github.com/cv0x/cvox-portfolio-web/blob/main/res/img/portfolio6.webp?raw=true'></a>
  
  <p align="left">3D Modeling and Printing</p>
  
- <a href='https://www.printables.com/cs/model/284814-heisenberg-bookmark'><img height='150px' src='https://github.com/cv0x/cvox-portfolio-web/blob/main/res/img/portfolio4.png?raw=true'></a>
- <a href='https://www.printables.com/cs/model/482589-bitcoin-cappuccino-stencil'><img height='150px' src='https://github.com/cv0x/cvox-portfolio-web/blob/main/res/img/portfolio5.png?raw=true'></a>
+ <a href='https://www.printables.com/cs/model/284814-heisenberg-bookmark'><img height='150px' src='https://github.com/cv0x/cvox-portfolio-web/blob/main/res/img/portfolio4.webp?raw=true'></a>
+ <a href='https://www.printables.com/cs/model/482589-bitcoin-cappuccino-stencil'><img height='150px' src='https://github.com/cv0x/cvox-portfolio-web/blob/main/res/img/portfolio5.webp?raw=true'></a>
 
 ###
 <h3 align="left">I am powered by ☕️ </h3>
