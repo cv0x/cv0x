@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm cv0x from 🇨🇿<br><br>- 🖥️ I like to create web applications that solve my problems<br>- 🔭 I'm looking for a new job<br>- 📚 I'm currently learning MERN Stack<br>- ⚡ In my free time I like to modeling and print on a 3D printer or work in the garage or around the house<br>- 💾 I run my homelab where I self host, for example NAS, Linux server with Docker, Home Assistant...<br>- 🍜 I love Japanese culture especially cars, food and anime</p>
+<p align="left">I'm cv0x from 🇨🇿<br><br>- 🖥️ I like to create web applications that solve my problems<br>-  📚 I'm currently learning MERN Stack<br>- ⚡ In my free time I like to modeling and print on a 3D printer or work in the garage or around the house<br>- 💾 I run my homelab where I self host, for example NAS, Linux server with Docker, Home Assistant...<br>- 🍜 I love Japanese culture especially cars, food and anime</p>
 
 ###
 
