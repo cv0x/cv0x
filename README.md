@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm cv0x from 🇨🇿<br><br>- 🖥️ I like to create web applications that solve my problems<br>-  📚 I'm currently learning MERN Stack<br>- ⚡ In my free time I like to modeling and print on a 3D printer or work in the garage or around the house<br>- 💾 I run my homelab where I self host, for example NAS, Linux server with Docker, Home Assistant...<br>- 🍜 I love Japanese culture especially cars, food and anime</p>
+<p align="left">I'm cv0x from 🇨🇿<br><br>- 🖥️ I like to create web applications that solve my problems<br>-  📚 I'm currently learning Manual and Automation Testing <br>- ⚡ In my free time I like to modeling and print on a 3D printer or work in the garage or around the house<br>- 💾 I run my homelab where I self host, for example NAS, Linux server with Docker, Home Assistant...<br>- 🍜 I love Japanese culture especially cars, food and anime</p>
 
 ###
 
@@ -26,42 +26,25 @@
 
 ###
 
-<div align="left">
+<div align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> 
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
 </div>
 
 ###
@@ -89,8 +72,9 @@
  
  <p align="left">3D Modeling and Printing</p>
  
- <a href='https://www.printables.com/cs/model/284814-heisenberg-bookmark'><img height='150px' src='https://github.com/cv0x/cvox-portfolio-web/blob/main/res/img/portfolio4.webp?raw=true'></a>
- <a href='https://www.printables.com/cs/model/482589-bitcoin-cappuccino-stencil'><img height='150px' src='https://github.com/cv0x/cvox-portfolio-web/blob/main/res/img/portfolio5.webp?raw=true'></a>
+ <a href='https://www.printables.com/model/284814-heisenberg-bookmark'><img height='150px' src='https://github.com/cv0x/cvox-portfolio-web/blob/main/res/img/portfolio4.webp?raw=true'></a>
+ <a href='https://www.printables.com/model/482589-bitcoin-cappuccino-stencil'><img height='150px' src='https://github.com/cv0x/cvox-portfolio-web/blob/main/res/img/portfolio5.webp?raw=true'></a>
+ <a href='https://www.printables.com/model/1140969-trezor-safe-3-stand'><img height='150px' src='https://github.com/cv0x/cvox-portfolio-web/blob/main/res/img/portfolio8.webp?raw=true'></a>
 
 ###
 <h3 align="left">I am powered by ☕️ </h3>
