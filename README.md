@@ -63,6 +63,11 @@
 <h3 align="left">🥇 Projects :</h3>
 
 ###
+ 
+ <a href='https://github.com/cv0x/AutoPhotoSort'><img height='150px' src='https://raw.githubusercontent.com/cv0x/AutoPhotoSort/refs/heads/main/src/img/gui.png'></a>
+ <a href='https://github.com/cv0x/kettlebell-10k-swing-challenge'><img height='150px' src='https://raw.githubusercontent.com/cv0x/kettlebell-10k-swing-challenge/refs/heads/main/src/10kswing.png'></a>
+ <a href='https://github.com/cv0x/2048-game-js'><img height='150px' src='https://raw.githubusercontent.com/cv0x/cvoxdesign.com/refs/heads/main/res/img/portfolio10.webp'></a>
+ 
 
  <p align="left">Wallpaper Engine projects</p>
  
